@@ -1,9 +1,12 @@
 # TranscribeBOT
 
-To run the application locally, please follow these steps:  
+To run the application locally, follow these steps:
 
-Install the required dependencies by running:
+## 1. Install the required dependencies:
+```bash
 pip install -r requirements.txt
+```
 
-Run the app by executing:
+## 2. Run the app:
+```bash
 streamlit run app.py
